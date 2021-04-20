@@ -1,1 +1,5 @@
-# deep_learning
+# Deep Learning Applications
+
+### [Style Transfer](https://github.com/soumya74/deep_learning/blob/main/styleTransfer.py)
+- Application of VGG-19, pre-trained model
+- [Gatys Image Style Transfer CVPR 2016 research paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
