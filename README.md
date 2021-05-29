@@ -1,4 +1,4 @@
-# Deep Learning Applications
+# Deep Learning Applications.
 
 ### A. [Style Transfer](https://github.com/soumya74/deep_learning/tree/main/style_transfer)
 - Application of VGG-19, pre-trained model
